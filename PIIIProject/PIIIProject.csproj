@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\bookmainpage.jpg" />
+    <None Remove="Images\books.jpg" />
+    <None Remove="Images\logo.jpg" />
+    <None Remove="Images\twillight.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\bookmainpage.jpg" />
+    <Resource Include="Images\books.jpg" />
+    <Resource Include="Images\logo.jpg" />
+    <Resource Include="Images\twillight.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Repos\" />
+  </ItemGroup>
+
+</Project>

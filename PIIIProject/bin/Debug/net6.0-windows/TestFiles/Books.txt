@@ -1,0 +1,36 @@
+fantasy,A Court Of Thorns And Roses,SJ Maas,800,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,Sorcery Of Thorns,Margot Rogerson,475,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,Six Crimson Cranes,Elizabeth Lim,548,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,Kingdom Of The Wicked,Kerry Maniscalco,438,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,The Shadows Between Us,Lexi Lavensller,423,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,Realm Breaker,Victoria Aveyard,709,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,These Violent Delights,Chloe Gong,389,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,Fourth Wing,Rebecca Yarros,548,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,Iron Flame,Rebecca Yarros,990,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,Ash Princess,Elsana Kanybek,430,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,Once Upon A Broken Heart,Stephanie Garber,496,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,Nevernight,Naomie Edward,589,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,Six of Crows,Leigh Bardugo,438,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,The Cruel Prince,Holly Black,546,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,King Of Scars,Leigh BArdugo,435,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,Serpent And Dove,Stephanie Mahurin,456,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,From Blood And Ash,Sophie Marcoux,467,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,Shatter me,Tahere Mafi,545,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,Scythe,Chris Maas,546,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,The Assasins Blade,SJ Maas,347,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,Throne Of Glass,SJ Maas,980,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,Crown Of Midnight,SJ Maas,385,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,Heir Of Fire,SJ Maas,385,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+fantasy,Empire Of Storms,SJ Maas,945,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+romance,Bridgerton,Julia Quinn,437,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+romance,Ugly Love,Colleen Hoover,646,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+romance,It Ends With Us,Colleen Hoover,324,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+romance,November 9,Colleen Hoover,235,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+romance,Regretting You,Colleen Hoover,765,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+romance,Red White And Royal Blue,Cassida Cowper,234,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+romance,One Last Time,Cassida Cowper,954,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+romance,People We Meet On Vacation,Emily Garber,958,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+romance,Falling Again,Morgane Moncomble,849,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+romance,From Lukov With Love,Kevin Woo,894,UsernameOfOwner,Available,1/1/0001 12:00:00 AM
+romance,The Summer I Turned Pretty,Jenny Han,345,FeyArch,Borrowed,2024-01-13 4:07:01 PM
+romance,The Seven Husbands Of Evelyn Hugo,Taylor Jenkins,963,UsernameOfOwner,Available,0001-01-01 12:00:00 AM

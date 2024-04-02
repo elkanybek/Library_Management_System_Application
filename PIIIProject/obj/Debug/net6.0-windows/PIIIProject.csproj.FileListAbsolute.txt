@@ -1,0 +1,71 @@
+\\Mac\Home\Documents\Programming_Project\PIIIProject\bin\Debug\net6.0-windows\PIIIProject.exe
+\\Mac\Home\Documents\Programming_Project\PIIIProject\bin\Debug\net6.0-windows\PIIIProject.deps.json
+\\Mac\Home\Documents\Programming_Project\PIIIProject\bin\Debug\net6.0-windows\PIIIProject.runtimeconfig.json
+\\Mac\Home\Documents\Programming_Project\PIIIProject\bin\Debug\net6.0-windows\PIIIProject.dll
+\\Mac\Home\Documents\Programming_Project\PIIIProject\bin\Debug\net6.0-windows\PIIIProject.pdb
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\App.g.cs
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\PIIIProject_MarkupCompile.cache
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\PIIIProject_MarkupCompile.lref
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\MainWindow.baml
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\PIIIProject.g.resources
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\PIIIProject.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\PIIIProject.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\PIIIProject.AssemblyInfo.cs
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\PIIIProject.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\PIIIProject.dll
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\refint\PIIIProject.dll
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\PIIIProject.pdb
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\PIIIProject.genruntimeconfig.cache
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\ref\PIIIProject.dll
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\ClientWindow.g.cs
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\EmployeeWindow.g.cs
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\ClientWindow.baml
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\EmployeeWindow.baml
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\AddBookPopUp.g.cs
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\AddClientPopUp.g.cs
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\AddEmployeePopUp.g.cs
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\BookSearch.g.cs
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\ClientRetrunBook.g.cs
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\ClientSearch.g.cs
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\OverduesPopUp.g.cs
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\AddBookPopUp.baml
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\AddClientPopUp.baml
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\AddEmployeePopUp.baml
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\BookSearch.baml
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\ClientRetrunBook.baml
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\ClientSearch.baml
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\OverduesPopUp.baml
+\\Mac\Home\Documents\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\App.baml
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\AddBookPopUp.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\AddClientPopUp.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\AddEmployeePopUp.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\BookSearch.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\ClientRetrunBook.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\ClientSearch.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\ClientWindow.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\EmployeeWindow.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\Views\OverduesPopUp.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\App.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\PIIIProject_MarkupCompile.cache
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\PIIIProject_MarkupCompile.lref
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\PIIIProject.dll
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\refint\PIIIProject.dll
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming_Project\PIIIProject\obj\Debug\net6.0-windows\PIIIProject.pdb
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming3_Project\PIIIProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming3_Project\PIIIProject\obj\Debug\net6.0-windows\Views\AddBookPopUp.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming3_Project\PIIIProject\obj\Debug\net6.0-windows\Views\AddClientPopUp.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming3_Project\PIIIProject\obj\Debug\net6.0-windows\Views\AddEmployeePopUp.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming3_Project\PIIIProject\obj\Debug\net6.0-windows\Views\BookSearch.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming3_Project\PIIIProject\obj\Debug\net6.0-windows\Views\ClientRetrunBook.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming3_Project\PIIIProject\obj\Debug\net6.0-windows\Views\ClientSearch.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming3_Project\PIIIProject\obj\Debug\net6.0-windows\Views\ClientWindow.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming3_Project\PIIIProject\obj\Debug\net6.0-windows\Views\EmployeeWindow.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming3_Project\PIIIProject\obj\Debug\net6.0-windows\Views\OverduesPopUp.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming3_Project\PIIIProject\obj\Debug\net6.0-windows\App.g.cs
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming3_Project\PIIIProject\obj\Debug\net6.0-windows\PIIIProject_MarkupCompile.cache
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming3_Project\PIIIProject\obj\Debug\net6.0-windows\PIIIProject_MarkupCompile.lref
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming3_Project\PIIIProject\obj\Debug\net6.0-windows\PIIIProject.dll
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming3_Project\PIIIProject\obj\Debug\net6.0-windows\refint\PIIIProject.dll
+\\Mac\Home\Documents\3\John Abbott\04 - Fall 2023-Semester 3\Programming 3\Assignments and Labs\Programming3_Project\PIIIProject\obj\Debug\net6.0-windows\PIIIProject.pdb

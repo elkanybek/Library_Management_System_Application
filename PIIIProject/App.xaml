@@ -1,0 +1,15 @@
+﻿<Application x:Class="PIIIProject.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:PIIIProject"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="White" />
+            <Setter Property="FontFamily" Value="Futura"/>
+        </Style>
+        
+        
+         
+    </Application.Resources>
+</Application>

@@ -1,0 +1,44 @@
+﻿<Window x:Class="PIIIProject.Views.OverduesPopUp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PIIIProject.Views"
+        mc:Ignorable="d"
+        Title="OverduesPopUp"  Height="350" Width="500"
+ ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen" >
+
+    <Window.Icon>
+        <BitmapImage UriSource="/Images/logo.jpg" />
+    </Window.Icon>
+
+    <Grid Background="Lavender" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Grid.ColumnSpan="2">
+            <Image Source="/Images/logo.jpg" Height="30" Margin="5"/>
+            <TextBlock Text="Overdue Books" FontSize="30" FontFamily="Times New Roman" Margin="15"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+            <TextBlock FontSize="15" FontFamily="Times New Roman">Overdue Books:</TextBlock>
+            <ListBox Name="lxbOverdues"  DisplayMemberPath="Title" Height="100" Width="400"  ></ListBox>
+
+        </StackPanel>
+
+        <Button FontSize="15" FontFamily="Times New Roman" Grid.Row="3"  Grid.ColumnSpan="2" Width="400" Content="Return Selected Book" Margin="10 5" Background="White" Click="Btn_ReturnBook"></Button>
+        <Button FontSize="15" FontFamily="Times New Roman" Grid.Row="4"  Grid.ColumnSpan="2" Width="400" Content="Done" Margin="10 5" Background="White" Click="Btn_Done"></Button>
+    </Grid>
+</Window>
