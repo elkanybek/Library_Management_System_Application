@@ -4,7 +4,7 @@
 
 **School:** John Abbott College
 
-Go to demo: [Webpage Demo](#application-demonstration) (click here)
+Go to demo: [App Demo](#application-demonstration) (click here)
 
 ## Project Overview
 
