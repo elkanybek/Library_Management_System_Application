@@ -1,8 +1,6 @@
 # Library Management System Application
-
+> This project was developed for Programming 3 course at John Abbott College. 
 **Project Period:** December 2023 – January 2024
-
-**School:** John Abbott College
 
 Go to demo: [App Demo](#application-demonstration) (click here)
 
